@@ -1,2 +1,4 @@
-# today-i-learned
-Keeping track of all the new dev and design things I learn.
+#Today I Learned...
+
+####January 2016
+- [Monday, January 11]()
